@@ -1,5 +1,8 @@
 # Castlebrooke's Computer Science Club
 
+## Class Site
+you can see the class list on [DMOJ](https://dmoj.ca/organization/129-castlebrooke-ss/users)
+
 ## Purpose
 1. To educate and enrich students on the fundamentals of computer science and programming.
 2. Help students succeed in the Junior and Senior Canadian Computing Competition.
