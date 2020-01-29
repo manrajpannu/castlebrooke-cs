@@ -13,10 +13,9 @@ you can see the class list on [DMOJ](https://dmoj.ca/organization/129-castlebroo
 3. Boost problem solving and logic skills that students can use throughout their future career.
 
 ## Plan
-Meetings after-school every Thursday.
-3:20 PM - 4:00 PM
-Every week we will assign a coding question and teach a certain topic.
-Students will work on the problem during the meeting.
+1. Meetings after-school every Thursday from 3:20 PM - 4:00 PM
+2. Every week we will assign a coding question and teach a certain topic.
+3. Students will work on the problem during the meeting.
 
 ## How? 
 1. We will be using DMOJ which is a Online Judge which hosts past programming problems from CCC, CCO.
